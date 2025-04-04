@@ -1,7 +1,7 @@
 import mysql.connector
 from telebot import TeleBot, types
 # Initialize the bot
-bot = TeleBot("7713638198:AAEJO0PdrZoGfLnmAaI_jj6l_oIzRoiC0QQ")
+bot = TeleBot("your id ")
 # Connect to the MySQL database
 db_config = {
     'host': 'localhost',         # Replace with your MySQL server host
